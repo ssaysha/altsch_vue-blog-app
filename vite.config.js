@@ -10,6 +10,10 @@ export default defineConfig({
     vue(),
     vueDevTools(),
   ],
+
+  // ✅ IMPORTANT FOR GITHUB PAGES
+  base: '/altsch_vue-blog-app/',
+
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
