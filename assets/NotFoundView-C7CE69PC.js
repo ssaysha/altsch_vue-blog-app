@@ -1,0 +1,1 @@
+import{l as e,p as t,r as n}from"./index-CqqjMNQp.js";var r={};function i(n,r){return t(),e(`h1`,null,`404 Page`)}var a=n(r,[[`render`,i]]);export{a as default};
